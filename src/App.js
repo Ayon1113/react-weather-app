@@ -3,9 +3,10 @@ import './App.css';
 import MyFirstComponent from './components/MyFirstComponent';
 
 function App() {
+  let headline = "Yes"
   return (
     <div className="App">
-     <MyFirstComponent/>
+     <MyFirstComponent message={headline}/>
     </div>
   );
 }

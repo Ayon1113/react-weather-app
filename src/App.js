@@ -1,13 +1,20 @@
 
 import './App.css';
-import MyFirstComponent from './components/MyFirstComponent';
+import data from './data';
+import ListComponent from './components/ListComponent'
 
 function App() {
-  let headline = "Yes"
   return (
-    <div className="App">
-     <MyFirstComponent message={headline}/>
-    </div>
+    <main className="App">
+     <section>
+       <label>Select bday month</label>
+       <select>
+         <option>January</option>
+       </select>
+       <h3>There are xx birthdays the month of xx</h3>
+       <ListComponent people ={data}/>
+     </section>
+    </main>
   );
 }
 

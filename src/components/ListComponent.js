@@ -1,14 +1,20 @@
-import { render } from "@testing-library/react";
+
 
 function ListComponent(props){
     return(
-        <p>
+        <section>
         {props.people.map((person) => {
           return (
-            <div>{person.name}</div>
+            <div key={person.id}>
+              <h2>{person.name}</h2>
+              <h3>{person.age}</h3>
+              <img src={person.image}/>
+            
+            </div>
+            
           )
         })}
-        </p>
+        </section>
     )
 }
 export default ListComponent;

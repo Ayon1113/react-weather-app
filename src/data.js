@@ -10,7 +10,7 @@ export default [
     
     image:
     
-    'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg&#39',
+    'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
     
     },
     
@@ -24,7 +24,7 @@ export default [
     
     image:
     
-    'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg&#39',
+    'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
     
     },
     
@@ -38,7 +38,7 @@ export default [
     
     image:
     
-    'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg&#39',
+    'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
     
     },
     
@@ -52,7 +52,7 @@ export default [
     
     image:
     
-    'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg&#39',
+    'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
     
     },
     
@@ -66,7 +66,7 @@ export default [
     
     image:
     
-    'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg&#39',
+    'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
     
     },
     
